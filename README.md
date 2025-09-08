@@ -73,7 +73,9 @@ I’m currently building hands-on projects around the following core skills. The
 | <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=Z5TWNJVVK70LFK3F" target="_blank" rel="noopener noreferrer">CompTIA A+ </a> | September 25, 2023 – October 16, 2026 | With my first IT assistant job and a few certifications as a foundation, I felt ready to pursue CompTIA A+. I relied mainly on Professor Messer’s course, which covered everything I needed for the exam. The certification is split into two parts: Core 1 and Core 2. Core 1 deepened my knowledge of hardware, disk redundancy, and printer troubleshooting, while Core 2 challenged me with command-line tools, operating system permissions, software troubleshooting, and security concepts. Earning A+ provided me with a strong vendor-neutral foundation in IT support, maintenance, and deployment, an essential first step for anyone building an IT career. |
 | <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=CTSZ0QV018L6V0C7" target="_blank" rel="noopener noreferrer">CompTIA IT Fundamentals+ </a> | September 12, 2023 – ∞ | ITF+ was my first-ever certification, taken at a Pearson VUE testing center. Taking it felt surreal, I was nervous but excited. The Google IT Support course on Coursera introduced me to the world of CompTIA certifications, and I decided to give ITF+ a try. At the time, I was rusty with IT concepts after college, so I booked the exam and studied resources on YouTube. It served as a great refresher, and most importantly, it set me on the path toward earning the CompTIA Trifecta. |
 
-<footer style="text-align:center; font-size: 0.8em; padding: 20px;">
-  © 2025 Abraham Peñarubia. All rights reserved.  
-  <a href="https://github.com/apenarubia/apenarubia.github.io/blob/main/LICENSE.md">License</a>
+<footer style="text-align:center; font-size: 0.8em; padding: 20px; color: #777;">
+  © 2025 Abraham Peñarubia. All rights reserved. |
+  <a href="https://github.com/apenarubia/apenarubia.github.io/blob/main/LICENSE.md" style="color: #777; text-decoration: none;">
+    License
+  </a>
 </footer>
