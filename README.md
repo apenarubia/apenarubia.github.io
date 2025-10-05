@@ -13,10 +13,10 @@
     <a href="https://linkedin.com/in/abrahampenarubia" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://www.facebook.com/abrahampenarubia/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
     <a href="https://medium.com/@abrahampenarubia" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a href="http://kc7cyber.com/profile/NH3Error" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/KC7-NH3Error-121212?style=for-the-badge&logo=data:image/svg+xml;base64,PASTE_YOUR_BASE64_SVG_HERE" alt="KC7 - NH3Error" /></a>
     <a href="https://app.hackthebox.com/profile/2052578" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Hack%20The%20Box-NH3Error-121212?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" /></a>
     <a href="https://tryhackme.com/p/NH3Error" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TryHackMe-NH3Error-2C2C2C?style=for-the-badge&logo=tryhackme&logoColor=FF1F1F" /></a>
     <a href="https://cyberdefenders.org/p/NH3Error" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CyberDefenders-NH3Error-2C2C2C?style=for-the-badge&logo=cyberdefenders&logoColor=00BFFF" /></a>
-    <a href="http://kc7cyber.com/profile/NH3Error" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/KC7-NH3Error-121212?style=for-the-badge&logo=data:image/svg+xml;base64,PASTE_YOUR_BASE64_SVG_HERE" alt="KC7 - NH3Error" /></a>
     <a href="mailto:abrahampenarubia@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-abrahampenarubia@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://tipidpc.com/ratings.php?username=r2xDxD" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TIPIDPC%20Seller%20-green?style=for-the-badge&logo=trustpilot&logoColor=white" /></a>
   </div><br>
