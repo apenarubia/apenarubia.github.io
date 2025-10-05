@@ -18,7 +18,7 @@
     <a href="https://cyberdefenders.org/p/NH3Error" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CyberDefenders-NH3Error-2C2C2C?style=for-the-badge&logo=cyberdefenders&logoColor=00BFFF" /></a>
     <a href="http://kc7cyber.com/profile/NH3Error" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/KC7-NH3Error-121212?style=for-the-badge&logo=data:image/svg+xml;base64,PASTE_YOUR_BASE64_SVG_HERE" alt="KC7 - NH3Error" /></a>
     <a href="mailto:abrahampenarubia@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-abrahampenarubia@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://tipidpc.com/ratings.php?username=r2xDxD" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TIPIDPC%20Trusted%20Seller%20-green?style=for-the-badge&logo=trustpilot&logoColor=white" /></a>
+    <a href="https://tipidpc.com/ratings.php?username=r2xDxD" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TIPIDPC%20Seller%20-green?style=for-the-badge&logo=trustpilot&logoColor=white" /></a>
   </div><br>
 </div>
 
