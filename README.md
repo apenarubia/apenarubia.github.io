@@ -10,7 +10,7 @@
 <div class="container">
   <div class="buttons">
     <a href="mailto:abrahampenarubia@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://drive.google.com/file/d/15MHGZDbexCjieqiJeAWDrZ0BfNcL2hnb/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-Google%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+    <a href="https://drive.google.com/file/d/15MHGZDbexCjieqiJeAWDrZ0BfNcL2hnb/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
     <a href="https://linkedin.com/in/abrahampenarubia" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://medium.com/@abrahampenarubia" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
     <a href="http://kc7cyber.com/profile/NH3Error" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/KC7-121212?style=for-the-badge&logo=data:image/svg+xml;base64,PASTE_YOUR_BASE64_SVG_HERE" alt="KC7 - NH3Error" /></a>
