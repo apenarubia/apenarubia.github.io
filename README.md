@@ -9,7 +9,7 @@
 
 <div class="container">
   <div class="buttons">
-    <a href="https://drive.google.com/file/d/16FtQ5tbU2MahQDbYaNSXqD2BpW3cAW-u/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-Google%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+    <a href="https://drive.google.com/file/d/15MHGZDbexCjieqiJeAWDrZ0BfNcL2hnb/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-Google%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
     <a href="https://linkedin.com/in/abrahampenarubia" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://www.facebook.com/abrahampenarubia/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
     <a href="https://medium.com/@abrahampenarubia" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
