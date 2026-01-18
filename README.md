@@ -10,7 +10,7 @@
 <div class="container">
   <div class="buttons">
     <a href="mailto:abrahampenarubia@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://drive.google.com/file/d/15MHGZDbexCjieqiJeAWDrZ0BfNcL2hnb/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+    <a href="https://drive.google.com/file/d/1iwqwmNZUeFp_JEmA63oTst0eL7QWAWg1/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
     <a href="https://linkedin.com/in/abrahampenarubia" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://medium.com/@abrahampenarubia" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
     <a href="https://tipidpc.com/ratings.php?username=r2xDxD" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TIPIDPC%20Seller%20-green?style=for-the-badge&logo=trustpilot&logoColor=white" /></a>
