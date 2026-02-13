@@ -83,5 +83,5 @@ I’m an IT professional with a Bachelor of Science in Information Technology an
 | <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=CTSZ0QV018L6V0C7" target="_blank" rel="noopener noreferrer">CompTIA IT Fundamentals+ </a> | September 12, 2023 – ∞ | ITF+ was my first-ever certification, taken at a Pearson VUE testing center. Taking it felt surreal, I was nervous but excited. The Google IT Support course on Coursera introduced me to the world of CompTIA certifications, and I decided to give ITF+ a try. At the time, I was rusty with IT concepts after college, so I booked the exam and studied resources on YouTube. It served as a great refresher, and most importantly, it set me on the path toward earning the CompTIA Trifecta. |
 
 <footer style="text-align:center; font-size: 0.8em; padding: 20px; color: #777;">
-  © 2025 Abraham Peñarubia. All rights reserved.
+  © 2026 Abraham Peñarubia. All rights reserved.
 </footer>
