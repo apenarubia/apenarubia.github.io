@@ -67,7 +67,7 @@ I’m an IT professional with a Bachelor of Science in Information Technology an
 
 | 🏢 Company                                   | 🧑‍💻 Position         | 📍 Location           | 📅 Date                      | 🔗 Website                                 |
 |---------------------------------------------|----------------------|-----------------------|------------------------------|--------------------------------------------|
-| **Lulu Financial Services (Phils.) Inc.**    | INetwork Engineer  | Taguig, Philippines   | November 2023 – Present      | [https://www.lulumoney.com.ph](https://www.lulumoney.com.ph/) |
+| **Lulu Financial Services (Phils.) Inc.**    | Network Engineer  | Taguig, Philippines   | November 2023 – Present      | [https://www.lulumoney.com.ph](https://www.lulumoney.com.ph/) |
 | **R.A. Gapuz Review Center**                 | IT Assistant         | Manila, Philippines   | September 2022 – March 2023  | [https://www.raygapuzreviewsystem.com](https://www.raygapuzreviewsystem.com/) |
 
 ## Certifications
