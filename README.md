@@ -23,7 +23,7 @@
 
 ## Summary
 
-I’m an IT professional with a Bachelor of Science in Information Technology and currently working as an IT/Network Engineer in the financial sector. Alongside my role, I’ve gained hands-on experience in cybersecurity, particularly in Incident Response using Microsoft Sentinel, Splunk, and ELK Stack. I have foundational skills in OSINT, DFIR, log analysis, proactive threat hunting, detection engineering, phishing email analysis, and security incident reporting. I’ve also worked with tools such as CrowdStrike, Rapid7 InsightIDR, FortiAnalyzer, and Mimecast in day-to-day operations. <br><br>Passionate about advancing my career in cybersecurity, I am actively seeking a full-time entry-level role in incident response, SOC analysis, or security engineering. I enjoy turning technical insights into actionable defenses and continuously sharpening my skills through real-world projects and continuous learning. Always open to connecting with peers and professionals in the field.
+I’m an IT professional with a Bachelor of Science in Information Technology and currently working as an Network Engineer in the financial sector. Alongside my role, I’ve gained hands-on experience in cybersecurity, particularly in Incident Response using Microsoft Sentinel, Splunk, and ELK Stack. I have foundational skills in OSINT, DFIR, log analysis, proactive threat hunting, detection engineering, phishing email analysis, and security incident reporting. I’ve also worked with tools such as CrowdStrike, Rapid7 InsightIDR, FortiAnalyzer, and Mimecast in day-to-day operations. <br><br>Passionate about advancing my career in cybersecurity, I am actively seeking a full-time entry-level role in incident response, SOC analysis, or security engineering. I enjoy turning technical insights into actionable defenses and continuously sharpening my skills through real-world projects and continuous learning. Always open to connecting with peers and professionals in the field.
 
 ## Tools
 
@@ -67,7 +67,7 @@ I’m an IT professional with a Bachelor of Science in Information Technology an
 
 | 🏢 Company                                   | 🧑‍💻 Position         | 📍 Location           | 📅 Date                      | 🔗 Website                                 |
 |---------------------------------------------|----------------------|-----------------------|------------------------------|--------------------------------------------|
-| **Lulu Financial Services (Phils.) Inc.**    | IT/Network Engineer  | Taguig, Philippines   | November 2023 – Present      | [https://www.lulumoney.com.ph](https://www.lulumoney.com.ph/) |
+| **Lulu Financial Services (Phils.) Inc.**    | INetwork Engineer  | Taguig, Philippines   | November 2023 – Present      | [https://www.lulumoney.com.ph](https://www.lulumoney.com.ph/) |
 | **R.A. Gapuz Review Center**                 | IT Assistant         | Manila, Philippines   | September 2022 – March 2023  | [https://www.raygapuzreviewsystem.com](https://www.raygapuzreviewsystem.com/) |
 
 ## Certifications
