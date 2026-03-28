@@ -59,7 +59,7 @@ I’m an IT professional with a Bachelor of Science in Information Technology an
 | IPSec Site-to-Site VPN (Cisco & Fortinet) | Designed and implemented encrypted Site-to-Site VPN Tunnels with routing and troubleshooting for secure enterprise connectivity. | [https://drive.google.com/file/d/1BFP5ua...](https://drive.google.com/file/d/1BFP5uaMOCvmmBkBkBXv1tz0PYtXGTIYJ/view?usp=sharing) |
 | SD-WAN ISP Failover (Fortinet) | Configured dual-ISP SD-WAN policies with automated failover, SLA monitoring, and load balancing to ensure high availability. | [https://drive.google.com/file/d/1rF0I7y...](https://drive.google.com/file/d/1rF0I7yItI-V3aVNye77TNfd4XtCbCrbW/view?usp=sharing) |
 | Building a Custom PC (2026) | Planned and assembled a high-performance custom desktop PC, focusing on component compatibility and cost efficiency. | [https://drive.google.com/file/d/18heh_4...](https://drive.google.com/file/d/18heh_4ChK1JQBCEVYkSo1nXg2DnZq8XO/view?usp=sharing) |
-| Captive Portal Wi-Fi Management (MikroTik) | Deployed a MikroTik captive portal with authentication, bandwidth control, and logging for network security. | [https://drive.google.com/file/d/1c0pjCv...](https://drive.google.com/file/d/1c0pjCvw2XTwNW1xGxGGxDyqLu4KXAMPm/view?usp=sharing) |
+| Captive Portal Wi-Fi Management (MikroTik) | Deployed a Wi-Fi captive portal with authentication, bandwidth control, and logging for network security. | [https://drive.google.com/file/d/1c0pjCv...](https://drive.google.com/file/d/1c0pjCvw2XTwNW1xGxGGxDyqLu4KXAMPm/view?usp=sharing) |
 | Active Directory Lab | Automated users, OU, permissions with PowerShell scripts. | **In Progress** |
 | AD Security Monitoring – Splunk & ELK | Windows logs → dashboards + alerts for suspicious activity. | **In Progress** |
 
