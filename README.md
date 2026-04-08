@@ -31,6 +31,13 @@ I hold several industry certifications including CompTIA A+, Network+, Security+
 
 I'm actively seeking new opportunities where I can apply my expertise to help an organization scale its secure infrastructure.  If your team is looking for a versatile engineer who stays ahead of the threat landscape, Let’s connect! :)
 
+## Work Experiences
+
+| 🏢 Company                                   | 🧑‍💻 Position         | 📍 Location           | 📅 Date                      | 🔗 Website                                 |
+|---------------------------------------------|----------------------|-----------------------|------------------------------|--------------------------------------------|
+| **Lulu Financial Services (Phils.) Inc.**    | Network Engineer     | Taguig, Philippines   | November 2023 – May 2026     | [https://www.lulumoney.com.ph](https://www.lulumoney.com.ph/) |
+| **R.A. Gapuz Review Center**                 | IT Assistant         | Manila, Philippines   | September 2022 – March 2023  | [https://www.raygapuzreviewsystem.com](https://www.raygapuzreviewsystem.com/) |
+
 ## Tools
 
 🛡️ Network Security
@@ -68,13 +75,6 @@ I'm actively seeking new opportunities where I can apply my expertise to help an
 | Captive Portal Wi-Fi Management (MikroTik) | Deployed a Wi-Fi captive portal with authentication, bandwidth control, and logging for network security. | [https://drive.google.com/file/d/1c0pjCv...](https://drive.google.com/file/d/1c0pjCvw2XTwNW1xGxGGxDyqLu4KXAMPm/view?usp=sharing) |
 | Active Directory Lab | Automated users, OU, permissions with PowerShell scripts. | **In Progress** |
 | AD Security Monitoring – Splunk & ELK | Windows logs → dashboards + alerts for suspicious activity. | **In Progress** |
-
-## Work Experiences
-
-| 🏢 Company                                   | 🧑‍💻 Position         | 📍 Location           | 📅 Date                      | 🔗 Website                                 |
-|---------------------------------------------|----------------------|-----------------------|------------------------------|--------------------------------------------|
-| **Lulu Financial Services (Phils.) Inc.**    | Network Engineer     | Taguig, Philippines   | November 2023 – May 2026     | [https://www.lulumoney.com.ph](https://www.lulumoney.com.ph/) |
-| **R.A. Gapuz Review Center**                 | IT Assistant         | Manila, Philippines   | September 2022 – March 2023  | [https://www.raygapuzreviewsystem.com](https://www.raygapuzreviewsystem.com/) |
 
 ## Certifications
 
