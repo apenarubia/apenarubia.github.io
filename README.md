@@ -23,7 +23,13 @@
 
 ## Summary
 
-I’m an IT professional with a Bachelor of Science in Information Technology and currently working as an Network Engineer in the financial sector. Alongside my role, I’ve gained hands-on experience in cybersecurity, particularly in Incident Response using Microsoft Sentinel, Splunk, and ELK Stack. I have foundational skills in OSINT, DFIR, log analysis, proactive threat hunting, detection engineering, phishing email analysis, and security incident reporting. I’ve also worked with tools such as CrowdStrike, Rapid7 InsightIDR, FortiAnalyzer, and Mimecast in day-to-day operations. <br><br>Passionate about advancing my career in cybersecurity, I am actively seeking a full-time entry-level role in incident response, SOC analysis, or security engineering. I enjoy turning technical insights into actionable defenses and continuously sharpening my skills through real-world projects and continuous learning. Always open to connecting with peers and professionals in the field.
+Hi. I am an IT professional with over three years of experience supporting enterprise environments across Southeast Asia, specializing in infrastructure, networking, and security operations.
+
+Currently working in the financial sector, I manage and maintain enterprise systems including Windows Servers, Entra ID, Active Directory, Microsoft 365, and Google Workspace. My responsibilities also include monitoring security platforms and implementing network infrastructure such as firewalls, routers, VPNs, and VoIP systems to ensure secure and reliable operations.
+
+I hold several industry certifications including CompTIA A+, Network+, Security+, CCNA, Hack The Box CDSA, and Microsoft SC-200. I also continuously build hands-on labs and practical environments to deepen my expertise in networking and cybersecurity operations.
+
+I'm actively seeking new opportunities where I can apply my expertise to help an organization scale its secure infrastructure.  If your team is looking for a versatile engineer who stays ahead of the threat landscape, Let’s connect! :)
 
 ## Tools
 
