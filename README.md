@@ -101,16 +101,11 @@ I'm actively seeking new opportunities where I can apply my expertise to help an
 
 ## Education
 
-### Polytechnic University of the Philippines
-**Bachelor of Science in Information Technology**  
-📍 Santa Mesa, Manila  
-📅 June 2017 – September 2023
+| 🎓 Institution                               | 📘 Program                                                           | 📍 Location        | 📅 Duration              |
+| -------------------------------------------- | -------------------------------------------------------------------- | ------------------ | -------------------------- |
+| Polytechnic University of the Philippines    | Bachelor of Science in Information Technology                        | Santa Mesa, Manila | June 2017 – September 2023 |
+| University of Makati – Higher School ng UMAK | Senior High School – Information and Communications Technology (ICT) | West Rembo, Taguig | June 2015 – April 2017     |
 
-### University of Makati – Higher School ng UMAK
-**Senior High School – Information and Communications Technology (ICT)**  
-📍 West Rembo, Taguig  
-📅 June 2015 – April 2017
-
-<br><footer style="text-align:center; font-size: 0.8em; padding: 20px; color: #777;">
+<footer style="text-align:center; font-size: 0.8em; padding: 20px; color: #777;">
   © 2026 Abraham Peñarubia. All rights reserved.
 </footer>
