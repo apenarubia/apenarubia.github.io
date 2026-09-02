@@ -99,6 +99,18 @@ I'm actively seeking new opportunities where I can apply my expertise to help an
 | <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=Z5TWNJVVK70LFK3F" target="_blank" rel="noopener noreferrer">CompTIA A+ </a> |  25, 2023 – October 16, 2026 | With my first IT assistant job and a few certifications as a foundation, I felt ready to pursue CompTIA A+. I relied mainly on Professor Messer’s course, which covered everything I needed for the exam. The certification is split into two parts: Core 1 and Core 2. Core 1 deepened my knowledge of hardware, disk redundancy, and printer troubleshooting, while Core 2 challenged me with command-line tools, operating system permissions, software troubleshooting, and security concepts. Earning A+ provided me with a strong vendor-neutral foundation in IT support, maintenance, and deployment, an essential first step for anyone building an IT career. |
 | <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=CTSZ0QV018L6V0C7" target="_blank" rel="noopener noreferrer">CompTIA IT Fundamentals+ </a> | September 12, 2023 – ∞ | ITF+ was my first-ever certification, taken at a Pearson VUE testing center. Taking it felt surreal, I was nervous but excited. The Google IT Support course on Coursera introduced me to the world of CompTIA certifications, and I decided to give ITF+ a try. At the time, I was rusty with IT concepts after college, so I booked the exam and studied resources on YouTube. It served as a great refresher, and most importantly, it set me on the path toward earning the CompTIA Trifecta. |
 
-<footer style="text-align:center; font-size: 0.8em; padding: 20px; color: #777;">
+## Education
+
+### Polytechnic University of the Philippines
+**Bachelor of Science in Information Technology**  
+📍 Santa Mesa, Manila  
+📅 June 2017 – September 2023
+
+### University of Makati – Higher School ng UMAK
+**Senior High School – Information and Communications Technology (ICT)**  
+📍 West Rembo, Taguig  
+📅 June 2015 – April 2017
+
+<br><footer style="text-align:center; font-size: 0.8em; padding: 20px; color: #777;">
   © 2026 Abraham Peñarubia. All rights reserved.
 </footer>
