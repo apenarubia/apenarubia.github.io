@@ -35,7 +35,7 @@ I'm actively seeking new opportunities where I can apply my expertise to help an
 
 | 🏢 Company                                   | 🧑‍💻 Position         | 📍 Location          | ⏳ Years  | 📅 Date                      | 🔗 Website                                 |
 |---------------------------------------------|----------------------|-----------------------|----------|------------------------------|--------------------------------------------|
-| **Lulu Financial Services (Phils.) Inc.**    | IT/Network Engineer     | Taguig, Philippines  | 2 years and 9 months | November 2023 – September 2026     | [https://www.lulumoney.com.ph](https://www.lulumoney.com.ph/) |
+| **Lulu Financial Services (Phils.) Inc.**    | Network Engineer     | Taguig, Philippines  | 2 years and 9 months | November 2023 – September 2026     | [https://www.lulumoney.com.ph](https://www.lulumoney.com.ph/) |
 | **Ray A. Gapuz Review System**                 | IT Assistant         | Manila, Philippines  | 6 months | September 2022 – March 2023  | [https://www.raygapuzreviewsystem.com](https://www.raygapuzreviewsystem.com/) |
 
 ## Tools
@@ -80,7 +80,7 @@ I'm actively seeking new opportunities where I can apply my expertise to help an
 
 | 🧪 Project | 🔍 Description | 🔗 Link |
 |-----------|----------------|--------|
-| Proxmox-Based Network Monitoring Lab with Zabbix, Nagios, and Gmail Alerting | Built and validated a Proxmox-based monitoring environment using Zabbix and Nagios to monitor servers, network services, system resources, and host availability, with automated Gmail notifications for detected outages and performance issues. | [https://drive.google.com/file/d/1TwLd0D...](https://drive.google.com/file/d/1TwLd0DpXLwmoIiM7mzCiBrwWPf7SswXR/view) |
+| Proxmox-Based Network Monitoring Lab with Zabbix, Nagios, and Gmail Alerting | Built and validated a Proxmox-based monitoring environment using Zabbix 7.4 and Nagios XI to monitor servers, network services, system resources, and host availability, with automated Gmail notifications for detected outages and performance issues. | [https://drive.google.com/file/d/1TwLd0D...](https://drive.google.com/file/d/1TwLd0DpXLwmoIiM7mzCiBrwWPf7SswXR/view) |
 | Self-Hosted Windows Server 2022 Active Directory Domain Lab with NAS Integration and Tailscale VPN | Built and managed a self-hosted Windows Server 2022 Active Directory environment with Synology NAS integration and Tailscale VPN for secure remote access. | [https://drive.google.com/file/d/1i_ENJC...](https://drive.google.com/file/d/1i_ENJCm24S9WFv6BQalxAPo1Pxg3TyL3/view?usp) |
 | Wi-Fi User Management with Captive Portal (MikroTik) | Deployed a Wi-Fi captive portal with authentication, bandwidth control, and logging for network security. | [https://drive.google.com/file/d/1c0pjCv...](https://drive.google.com/file/d/1c0pjCvw2XTwNW1xGxGGxDyqLu4KXAMPm/view) |
 | Enterprise Networking Lab: Cisco & Fortinet IPsec VPN, SD-WAN & ISP Failover | Configured Cisco and FortiGate environments with IPsec Site-to-Site VPN connectivity, routing, and troubleshooting; implemented Fortinet dual-ISP SD-WAN with SLA monitoring, automatic failover, and load balancing to improve network availability and resiliency. | [https://drive.google.com/drive/u/3/fold...](https://drive.google.com/drive/u/3/folders/1M6M3Lc5D1VCDB9gV1fmVqFkNJyL-IFMO) |
