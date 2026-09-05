@@ -54,7 +54,7 @@ I'm actively seeking new opportunities where I can apply my expertise to help an
   <img src="https://img.shields.io/badge/-Static_Routing-005C99?&style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/-OSPF-005C99?&style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/-ACLs-005C99?&style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/-802.11_Wireless_Networking-005C99?&style=for-the-badge&logo=wifi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-802.11_Wireless-005C99?&style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/-IPsec_Site--to--Site_VPN-005C99?&style=for-the-badge&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/-SSL_VPN-005C99?&style=for-the-badge&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/-SD--WAN-005C99?&style=for-the-badge&logo=fortinet&logoColor=white" />
