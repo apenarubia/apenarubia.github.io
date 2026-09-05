@@ -42,7 +42,25 @@ I'm actively seeking new opportunities where I can apply my expertise to help an
 
 🌐 Networking & Protocols
 
-<div> <img src="https://img.shields.io/badge/-TCP%2FIP-005C99?&style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-DNS-005C99?&style=for-the-badge&logo=cloudflare&logoColor=white" /> <img src="https://img.shields.io/badge/-DHCP-005C99?&style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-NAT-005C99?&style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-VLANs-005C99?&style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-ACLs-005C99?&style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-802.1Q-005C99?&style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-802.11-005C99?&style=for-the-badge&logo=wifi&logoColor=white" /> <img src="https://img.shields.io/badge/-Inter--VLAN_Routing-005C99?&style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-Static_Routing-005C99?&style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-IPsec_VPN-005C99?&style=for-the-badge&logo=fortinet&logoColor=white" /> <img src="https://img.shields.io/badge/-SSL_VPN-005C99?&style=for-the-badge&logo=fortinet&logoColor=white" /> <img src="https://img.shields.io/badge/-SD--WAN-005C99?&style=for-the-badge&logo=fortinet&logoColor=white" /> <img src="https://img.shields.io/badge/-SNMP-005C99?&style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-Syslog-005C99?&style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/-ICMP-005C99?&style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-Port_Security-005C99?&style=for-the-badge&logo=cisco&logoColor=white" /> </div> <br>
+<div>
+  <img src="https://img.shields.io/badge/-TCP%2FIP-005C99?&style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DNS-005C99?&style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DHCP-005C99?&style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NAT-005C99?&style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VLANs-005C99?&style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-802.1Q_Trunking-005C99?&style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Inter--VLAN_Routing-005C99?&style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LACP-005C99?&style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Static_Routing-005C99?&style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OSPF-005C99?&style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ACLs-005C99?&style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-802.11_Wireless_Networking-005C99?&style=for-the-badge&logo=wifi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IPsec_Site--to--Site_VPN-005C99?&style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SSL_VPN-005C99?&style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SD--WAN-005C99?&style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SNMPv3-005C99?&style=for-the-badge&logo=cisco&logoColor=white" />
+</div>
+<br>
 
 🖧 Network Hardware & Infrastructure
 
