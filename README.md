@@ -23,11 +23,7 @@
 
 ## Summary
 
-Hi. I am an IT professional with over three years of experience supporting enterprise environments across Southeast Asia, specializing in infrastructure, networking, and security operations.
-
-Currently working in the financial sector, I manage and maintain enterprise systems including Windows Servers, Entra ID, Active Directory, Microsoft 365, and Google Workspace. My responsibilities also include monitoring security platforms and implementing network infrastructure such as firewalls, routers, VPNs, and VoIP systems to ensure secure and reliable operations.
-
-I hold several industry certifications including CompTIA A+, Network+, Security+, CCNA, Hack The Box CDSA, and Microsoft SC-200. I also continuously build hands-on labs and practical environments to deepen my expertise in networking and cybersecurity operations.
+Network Engineer with 3+ years supporting enterprise networks in the financial sector. I monitor, triage, and resolve network and security incidents across firewalls, routers, VPNs, SD-WAN, and VoIP, using Zabbix, Nagios, ServiceNow, and Rapid7. Comfortable with 24/7 operations, escalation procedures, and clear incident communication. CCNA, A+, Network+, Security+, SC-200, and HTB CDSA certified.
 
 I'm actively seeking new opportunities where I can apply my expertise to help an organization scale its secure infrastructure.  If your team is looking for a versatile engineer who stays ahead of the threat landscape, Let’s connect! :)
 
