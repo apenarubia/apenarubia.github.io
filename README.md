@@ -5,7 +5,7 @@
   <sup><b> ← My photo was taken at Fort Santiago, a historic landmark in Manila. </b></sup><br>
 </div>
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Profile
+## Profile
 
 <div class="container">
   <div class="buttons">
