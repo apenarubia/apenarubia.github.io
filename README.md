@@ -80,7 +80,7 @@ I'm actively seeking new opportunities where I can apply my expertise to help an
 
 📊 Infrastructure Monitoring & Alerting
 
-<div> <img src="https://img.shields.io/badge/-Zabbix_7.0_LTS-D40000?&style=for-the-badge&logo=zabbix&logoColor=white" /> <img src="https://img.shields.io/badge/-Nagios_XI-000000?&style=for-the-badge&logo=nagios&logoColor=white" /> </div> <br>
+<div> <img src="https://img.shields.io/badge/-Zabbix_7.0_LTS-D40000?&style=for-the-badge&logo=zabbix&logoColor=white" /> <img src="https://img.shields.io/badge/-Nagios_XI-000000?&style=for-the-badge&logo=nagios&logoColor=white" /> <img src="https://img.shields.io/badge/-SolarWinds_NPM_2026-F99D1C?&style=for-the-badge&logo=solarwinds&logoColor=white" /> </div> <br>
 
 🛠️ Remote Administration & Support
 
