@@ -1,5 +1,5 @@
 <div>
-  <img src="https://i.imgur.com/sC3Yalf.png"
+  <img src="images/me.png"
        alt="Profile photo"
        style="width:150px;height:150px;border-radius:50%;object-fit:cover;object-position:center;border:2px solid #e5e7eb;box-shadow:0 6px 16px rgba(0,0,0,.15);" />
   <sup><b> ← My photo was taken at Fort Santiago, a historic landmark in Manila. </b></sup><br>
