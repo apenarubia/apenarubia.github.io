@@ -23,7 +23,17 @@
 
 ## Summary
 
-Network Engineer with 3+ years supporting enterprise networks in the financial sector. I monitor, triage, and resolve network and security incidents across firewalls, routers, VPNs, SD-WAN, and VoIP, using Zabbix, Nagios, ServiceNow, and Rapid7. Comfortable with 24/7 operations, escalation procedures, and clear incident communication. CCNA, A+, Network+, Security+, SC-200, and HTB CDSA certified.
+IT Infrastructure and Network Operations professional with over 3 years of experience supporting financial technology and educational environments across Southeast Asia.
+
+My background includes network administration, infrastructure monitoring, incident management, systems administration, and L1/L2 technical support. I have hands-on experience working with Cisco, Fortinet, MikroTik, pfSense, Windows Server, Active Directory, Zabbix, SolarWinds NPM, Nagios XI, and ServiceNow.
+I continuously expand my technical capabilities through professional certifications and hands-on homelabs focused on enterprise networking, infrastructure monitoring, network security, and systems administration.
+
+Core Technical Skills
+• Network Operations: LAN/WAN, TCP/IP, VLANs, Routing & Switching
+• Network Security: FortiGate, Firewall Administration, VPN, IPsec
+• Infrastructure Monitoring: Zabbix, SolarWinds NPM, Nagios XI
+• Systems Administration: Windows Server, Active Directory, Microsoft 365
+• IT Service Management: ServiceNow, Incident Management, Troubleshooting
 
 I'm actively seeking new opportunities where I can apply my expertise to help an organization scale its secure infrastructure.  If your team is looking for a versatile engineer who stays ahead of the threat landscape, Let’s connect! :)
 
