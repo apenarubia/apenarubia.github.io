@@ -31,8 +31,8 @@ I'm actively seeking new opportunities where I can apply my expertise to help an
 
 | 🏢 Company | 🧑‍💻 Position | 📍 Location | ⏳ Years | 📅 Date | 🔗 Website |
 |---|---|---|---|---|---|
-| [**Lulu Financial Services (Phils.) Inc.**](https://www.lulumoney.com.ph/) | Network Engineer | Taguig, Philippines | 2 years and 10 months | November 2023 – September 2026 | <a href="https://www.lulumoney.com.ph/"><img src="images/w2.png" width="300" height="200"></a> |
-| [**Ray A. Gapuz Review System**](https://www.raygapuzreviewsystem.com/) | IT Assistant | Manila, Philippines | 6 months | September 2022 – March 2023 | <a href="https://www.raygapuzreviewsystem.com/"><img src="images/w1.png" width="300" height="200"></a> |
+| [**Lulu Financial Services (Phils.) Inc.**](https://www.lulumoney.com.ph/) | Network Engineer | Taguig, Philippines | 2 years and 10 months | November 2023 – September 2026 | <a href="https://www.lulumoney.com.ph/"><img src="images/w2.png" width="150" height="100"></a> |
+| [**Ray A. Gapuz Review System**](https://www.raygapuzreviewsystem.com/) | IT Assistant | Manila, Philippines | 6 months | September 2022 – March 2023 | <a href="https://www.raygapuzreviewsystem.com/"><img src="images/w1.png" width="150" height="100"></a> |
 
 ## Tools
 
